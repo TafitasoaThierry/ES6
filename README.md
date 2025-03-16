@@ -1,1 +1,1 @@
-the basics concepts of es6
+Some basics concepts used es6
